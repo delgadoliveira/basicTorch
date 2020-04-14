@@ -9,6 +9,7 @@ In this repository, notebooks with examples for application Pytorch in deep lear
 ###### 5) **5_DNN_Credit_Fraud**: Application of neural networks on Credit card default dataset. Example of the use of GPU and CUDA support to train neural network model. 
 ###### 6) **6_Image_Classification**: Application of neural network composed by dense layers on fruit image dataset for species classification.
 ###### 7) **7_CNN_Image_Classification**: Application of convolutional neural network architecture on fruit image dataset for species classification.
+###### 8) **7_CNN_Image_Classification**: Application of convolutional neural network architecture on fruit image dataset for species classification.
 
 
 
